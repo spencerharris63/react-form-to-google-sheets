@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+.env
+
+# service account keys
+react-gsheets-form-576a93908ef0.json
